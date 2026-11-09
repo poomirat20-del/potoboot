@@ -1,0 +1,10 @@
+{
+  "name": "ลอยกระทงโฟโต้บูท By เทศบาล ๕ วัดพระปฐมเจดีย์",
+  "description": "แอปพลิเคชันโฟโต้บูทธีมวันลอยกระทง ถ่ายภาพ เลือกกรอบรูป สติกเกอร์ ปรับโทนสี สแกน QR โหลดรูป และพิมพ์ภาพ",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
